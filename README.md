@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Pedro Victor
 
-<!--
-**PedroVictorxD/PedroVictorXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNP  
+📱 Desenvolvedor Flutter apaixonado por tecnologia  
+☕ Também estudo Java e desenvolvimento backend  
+🔗 Experiência em projetos com APIs REST, segurança e boas práticas  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que uso
+- Flutter / Dart
+- Java / Spring Boot
+- PostgreSQL
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Projetos em destaque
+- [PetConnect](https://github.com/PedroVictorXD?tab=repositories&q=petconnect) – sistema completo para gestão de pets
+- [Portal SIRA](https://github.com/PedroVictorXD?tab=repositories&q=sira) – ferramenta interna para loja atacadista
+- [Portal de Propagandas](https://github.com/PedroVictorXD/portal-propagandas) - sistema de propagandas web para rodar em smartv e etc.
+
+---
+
+💡 *"A prática constante é o caminho para a excelência."*  
+📬 Me encontre em: [LinkedIn]() • [Email](jessevvv63@gmail.com)
