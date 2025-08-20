@@ -7,6 +7,7 @@
 
 ### 🚀 Tecnologias que uso
 - Flutter / Dart
+- React Native
 - Java / Spring Boot
 - PostgreSQL
 - HTML, CSS, JavaScript
