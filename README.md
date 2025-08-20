@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Pedro Victor
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNP  
-📱 Desenvolvedor Flutter 
+🎓 Estudante de Ciências da Computação na UNP  
+📱 Desenvolvedor Flutter/ React Native 
 ☕ Também estudo Java e desenvolvimento backend  
 🔗 Experiência em projetos com APIs REST, segurança e boas práticas  
 
