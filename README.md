@@ -61,9 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVictorxD&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroVictorxD&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="stats" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictorxD&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroVictorxD&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="languages" />
 </div>
 
 ###
@@ -75,5 +75,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=PedroVictorxD&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=true" height="150" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=PedroVictorxD&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=true" height="150" alt="trophies" />
 </div>
