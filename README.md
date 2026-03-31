@@ -49,8 +49,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [ConectaTech](https://github.com/PedroVictorxD/ConectaTech) | REST API connecting students to internships. [API Docs](https://pedrovictorxd.github.io/ConectaTech/) | Java, Spring Boot, PostgreSQL, JWT |
-| [Acai System](https://github.com/PedroVictorxD/acai-system-delivery) | Delivery management system for acai stores | Flutter, Dart |
-| [Nutrilog](https://github.com/PedroVictorxD/nutrilog) | Nutrition tracking and meal planning app | React Native |
+| [Acai System](https://github.com/PedroVictorxD/acai-system-delivery) | Delivery management system for acai stores | Java, React |
+| [Nutrilog](https://github.com/PedroVictorxD/nutrilog) | Nutrition tracking and meal planning app | Flutter, Dart |
 
 <br clear="both">
 
