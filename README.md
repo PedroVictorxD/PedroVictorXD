@@ -1,24 +1,27 @@
-# 👋 Olá! Eu sou o Pedro Victor
+# Pedro Victor
 
-🎓 Estudante de Ciências da Computação na UNP  
-📱 Desenvolvedor Flutter/ React Native 
-☕ Também estudo Java e desenvolvimento backend  
-🔗 Experiência em projetos com APIs REST, segurança e boas práticas  
+**Computer Science** — Universidade Potiguar (UNP) | Mossoro, RN, Brazil
 
-### 🚀 Tecnologias que uso
-- Flutter / Dart
-- React Native
-- Java / Spring Boot
-- PostgreSQL
-- HTML, CSS, JavaScript
-- Git & GitHub
-
-### 📈 Projetos em destaque
-- [PetConnect](https://github.com/PedroVictorXD?tab=repositories&q=petconnect) – sistema completo para gestão de pets
-- [Portal SIRA](https://github.com/PedroVictorXD?tab=repositories&q=sira) – ferramenta interna para loja atacadista
-- [Portal de Propagandas](https://github.com/PedroVictorXD/portal-propagandas) - sistema de propagandas web para rodar em smartv e etc.
+Full-stack developer focused on mobile applications and backend APIs. Experienced in building secure, scalable systems with clean architecture and modern engineering practices.
 
 ---
 
-💡 *"A prática constante é o caminho para a excelência."*  
-📬 Me encontre em: [LinkedIn]() • [Email](jessevvv63@gmail.com)
+### Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| Mobile | Flutter, Dart, React Native |
+| Backend | Java 17, Spring Boot 3, Spring Security, JWT |
+| Database | PostgreSQL |
+| Frontend | HTML, CSS, JavaScript |
+| DevOps | Git, GitHub Actions, Maven, Swagger/OpenAPI |
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [ConectaTech](https://github.com/PedroVictorxD/ConectaTech) | REST API connecting university students to internship opportunities. Aggregates jobs from Jooble API and web scraping. [API Docs](https://pedrovictorxd.github.io/ConectaTech/) | Java, Spring Boot, PostgreSQL, JWT |
+| [Acai System](https://github.com/PedroVictorxD/acai-system-delivery) | Delivery management system for acai stores | Flutter, Dart |
+| [Nutrilog](https://github.com/PedroVictorxD/nutrilog) | Nutrition tracking and meal planning application | React Native |
