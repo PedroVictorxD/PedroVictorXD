@@ -1,17 +1,9 @@
-<h1 align="center">Pedro Victor</h1>
+<br clear="both">
+<img align="right" height="200" src="https://i.pinimg.com/736x/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.jpg" />
 
-<p align="center">
-  <strong>Computer Science</strong> — Universidade Potiguar (UNP) | Mossoro, RN, Brazil
-</p>
+<h5 align="left">Hi! I'm Pedro Victor, Computer Science student at Universidade Potiguar (UNP), Mossoro/RN, Brazil.<br><br>Full-stack developer focused on mobile apps and backend APIs. Experienced with Java and Spring Boot, Flutter, React Native, and relational databases. Building secure, scalable systems with clean architecture.</h5>
 
-<p align="center">Full-stack developer focused on mobile apps and backend APIs. Building secure, scalable systems with clean architecture.</p>
-
-###
-
-<h2 align="center">Tech Stack</h2>
-
-###
-
+<br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
   <img width="12" />
@@ -36,15 +28,25 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
 </div>
 
-###
-
-<h2 align="center">Projects</h2>
-
-###
-
+<br clear="both">
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroVictorxD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroVictorxD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PedroVictorxD&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVictorxD&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="300" alt="activity graph" />
+</div>
+
+<br clear="both">
+
+### Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -52,28 +54,5 @@
 | [Acai System](https://github.com/PedroVictorxD/acai-system-delivery) | Delivery management system for acai stores | Flutter, Dart |
 | [Nutrilog](https://github.com/PedroVictorxD/nutrilog) | Nutrition tracking and meal planning app | React Native |
 
-</div>
-
-###
-
-<h2 align="center">GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroVictorxD&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img width="12" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroVictorxD&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroVictorxD&theme=github-dark-blue&hide_border=true" height="160" alt="streak" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=PedroVictorxD&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=true" height="150" alt="trophies" />
-</div>
+<br clear="both">
+<img align="right" src="https://profile-counter.glitch.me/PedroVictorxD/count.svg?" />
