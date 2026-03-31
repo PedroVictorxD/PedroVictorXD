@@ -40,8 +40,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroVictorxD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages" />
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=PedroVictorxD&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVictorxD&radius=16&theme=react-dark&area=true&hide_border=true&order=5" height="300" alt="activity graph" />
 </div>
 
 <br clear="both">
@@ -53,6 +51,10 @@
 | [ConectaTech](https://github.com/PedroVictorxD/ConectaTech) | REST API connecting students to internships. [API Docs](https://pedrovictorxd.github.io/ConectaTech/) | Java, Spring Boot, PostgreSQL, JWT |
 | [Acai System](https://github.com/PedroVictorxD/acai-system-delivery) | Delivery management system for acai stores | Flutter, Dart |
 | [Nutrilog](https://github.com/PedroVictorxD/nutrilog) | Nutrition tracking and meal planning app | React Native |
+
+<br clear="both">
+
+<img src="https://github.com/PedroVictorxD/PedroVictorXD/blob/output/github-snake-dark.svg" alt="snake animation" />
 
 <br clear="both">
 <img align="right" src="https://profile-counter.glitch.me/PedroVictorxD/count.svg?" />
