@@ -31,8 +31,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=insonia" height="40" alt="insonia" />
-</div>
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=insomnia" height="40" alt="insomnia" />
+  </div>
 
 <br clear="both">
 <div align="center">
