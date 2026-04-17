@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=insonia" height="40" alt="postman" />
 </div>
 
 <br clear="both">
